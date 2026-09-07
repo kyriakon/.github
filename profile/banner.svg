@@ -3,17 +3,22 @@
   <rect width="1280" height="480" fill="#faf7f2"/>
 
   <!-- Chi-Rho mark, crimson, 1.25x stretched (matches site favicon) -->
-  <text x="640" y="185" text-anchor="middle" dominant-baseline="central"
-        font-family="Iowan Old Style" font-size="150" font-weight="700" fill="#7b1e26"
+  <text x="640" y="140" text-anchor="middle" dominant-baseline="central"
+        font-family="Iowan Old Style" font-size="215" font-weight="700" fill="#7b1e26"
         transform="translate(640 0) scale(1.25 1) translate(-640 0)">☧</text>
 
-  <!-- Wordmark -->
-  <text x="640" y="320" text-anchor="middle"
-        font-family="Palatino" font-size="52" font-weight="600" fill="#1c1a17"
-        letter-spacing="-1.3">Kyriakon.net</text>
+  <!-- Wordmark (Times bold - matches site rendering) -->
+  <text x="640" y="308" text-anchor="middle"
+        font-family="Times" font-size="118" font-weight="700" fill="#1c1a17"
+        letter-spacing="-3">Kyriakon.net</text>
 
-  <!-- Tagline -->
-  <text x="640" y="392" text-anchor="middle"
+  <!-- Tagline 1 (system sans, ink) -->
+  <text x="640" y="396" text-anchor="middle"
+        font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="27" fill="#1c1a17">Secure email, static web hosting, and pass repositories.</text>
+
+  <!-- Tagline 2 (system sans, muted) -->
+  <text x="640" y="440" text-anchor="middle"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
         font-size="24" fill="#1c1a17" fill-opacity="0.6">Principled software, built by Orthodox Christians.</text>
 </svg>
