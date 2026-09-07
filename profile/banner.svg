@@ -7,18 +7,18 @@
         font-family="Iowan Old Style" font-size="215" font-weight="700" fill="#7b1e26"
         transform="translate(640 0) scale(1.25 1) translate(-640 0)">☧</text>
 
-  <!-- Wordmark (Times bold - matches site rendering) -->
+  <!-- Wordmark (Palatino 600 - matches site diamond period) -->
   <text x="640" y="308" text-anchor="middle"
-        font-family="Times" font-size="118" font-weight="700" fill="#1c1a17"
+        font-family="Palatino" font-size="116" font-weight="600" fill="#1c1a17"
         letter-spacing="-3">Kyriakon.net</text>
 
   <!-- Tagline 1 (system sans, ink) -->
-  <text x="640" y="396" text-anchor="middle"
+  <text x="640" y="398" text-anchor="middle"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
-        font-size="27" fill="#1c1a17">Secure email, static web hosting, and pass repositories.</text>
+        font-size="31" fill="#1c1a17">Secure email, static web hosting, and pass repositories.</text>
 
   <!-- Tagline 2 (system sans, muted) -->
-  <text x="640" y="440" text-anchor="middle"
+  <text x="640" y="444" text-anchor="middle"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
-        font-size="24" fill="#1c1a17" fill-opacity="0.6">Principled software, built by Orthodox Christians.</text>
+        font-size="27" fill="#1c1a17" fill-opacity="0.6">Principled software, built by Orthodox Christians.</text>
 </svg>
