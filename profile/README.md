@@ -1,11 +1,4 @@
-<div align="center">
-
-# ☧ Kyriakon
-
-**Secure email, static web hosting, and `pass` repositories.**
-*Principled hosting, run by Orthodox Christians.*
-
-</div>
+[![image](banner.png)](https://kyriakon.net)
 
 ---
 
