@@ -1,4 +1,10 @@
-[![image](banner.png)](https://kyriakon.net)
+<div align="center">
+
+[![banner](banner.png)](https://kyriakon.net)
+
+**[kyriakon.net](https://kyriakon.net)**
+
+</div>
 
 ---
 
