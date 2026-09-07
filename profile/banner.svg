@@ -2,23 +2,23 @@
   <title id="t">Kyriakon.net</title>
   <rect width="1280" height="480" fill="#faf7f2"/>
 
-  <!-- Chi-Rho mark, crimson, 1.25x stretched (matches site favicon) -->
-  <text x="640" y="140" text-anchor="middle" dominant-baseline="central"
-        font-family="Iowan Old Style" font-size="215" font-weight="700" fill="#7b1e26"
+  <!-- Chi-Rho mark, small (site ratio: mark ≈ 0.6x wordmark height) -->
+  <text x="640" y="120" text-anchor="middle" dominant-baseline="central"
+        font-family="Iowan Old Style" font-size="52" font-weight="700" fill="#7b1e26"
         transform="translate(640 0) scale(1.25 1) translate(-640 0)">☧</text>
 
-  <!-- Wordmark (Palatino 600 - matches site diamond period) -->
-  <text x="640" y="308" text-anchor="middle"
-        font-family="Palatino" font-size="116" font-weight="600" fill="#1c1a17"
-        letter-spacing="-3">Kyriakon.net</text>
+  <!-- Wordmark (Palatino 600 - diamond period, 440px wide like site) -->
+  <text x="640" y="205" text-anchor="middle"
+        font-family="Palatino" font-size="78" font-weight="600" fill="#1c1a17"
+        letter-spacing="-2.5">Kyriakon.net</text>
 
-  <!-- Tagline 1 (system sans, ink) -->
-  <text x="640" y="398" text-anchor="middle"
+  <!-- Tagline 1 -->
+  <text x="640" y="286" text-anchor="middle"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
-        font-size="31" fill="#1c1a17">Secure email, static web hosting, and pass repositories.</text>
+        font-size="28" fill="#1c1a17">Secure email, static web hosting, and pass repositories.</text>
 
-  <!-- Tagline 2 (system sans, muted) -->
-  <text x="640" y="444" text-anchor="middle"
+  <!-- Tagline 2 -->
+  <text x="640" y="326" text-anchor="middle"
         font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
-        font-size="27" fill="#1c1a17" fill-opacity="0.6">Principled software, built by Orthodox Christians.</text>
+        font-size="22" fill="#1c1a17" fill-opacity="0.6">Principled software, built by Orthodox Christians.</text>
 </svg>
